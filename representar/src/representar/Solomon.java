@@ -15,6 +15,7 @@ public class Solomon {
 	         archivo = new File ("C:\\C102.txt");
 	         fr = new FileReader (archivo);
 	         br = new BufferedReader(fr);
+	         
 	 
 	         // Lectura del fichero
 	         String linea;
